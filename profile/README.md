@@ -37,7 +37,7 @@ Agenda eletrônica retrôfuturista com módulos de contatos, compromissos, taref
 > *"Nunca mais corra contra o relógio."*
 
 ### 💉 [Controle de Medicamentos](https://github.com/Compila-logo-existe/ControleDeMedicamentos)  
-Sistema de controle de medicamentos, fornecedoresm pacientes, funcionários, prescrições e requerimentos.  
+Sistema de controle de medicamentos, fornecedores, pacientes, funcionários, prescrições e requerimentos.  
 > *"Porque saúde se compila com responsabilidade."*
 
 ***
