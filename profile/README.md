@@ -28,11 +28,11 @@ Somos alunos da **Academia do Programador Fullstack 2025**, uma iniciativa volta
 
 ## 🧩 Projetos em Destaque
 
-### 📚 [Teste, Logo Avalia](https://github.com/Compila-Logo-Existe/teste-logo-avalia)
+### 📚 [Teste, Logo Avalia](https://github.com/Compila-logo-existe/GeradorDeTestes)
 Sistema modular de gerenciamento de avaliações escolares, com geração automática de provas, questões e gabaritos em PDF.  
 > *"Se tem pergunta, tem avaliação."*
 
-### ☎️ [Prototype E-Agenda](https://github.com/Compila-Logo-Existe/prototype-eagenda)  
+### ☎️ [Prototype E-Agenda](https://github.com/Compila-logo-existe/eAgenda)  
 Agenda eletrônica retrôfuturista com módulos de contatos, compromissos, tarefas, despesas e categorias.  
 > *"Nunca mais corra contra o relógio."*
 
